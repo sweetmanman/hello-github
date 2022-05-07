@@ -1,5 +1,6 @@
 # hello-github
 my first repository
+readme-edits
 ```
 {
   "firstName": "John",
@@ -7,3 +8,9 @@ my first repository
   "age": 25
 }
 ```
+=======
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+main
